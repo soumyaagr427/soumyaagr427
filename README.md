@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/soumyaagr427/soumyaagr427/main/Orange%20Cream%20Neutral%20Senior%20Seo%20Analyst%20Profile%20LinkedIn%20Banner%20(2).png" alt="cover" />
+<img width="100%" height = "250px" src="https://github.com/soumyaagr427/soumyaagr427/blob/main/Orange%20Cream%20Neutral%20Senior%20Seo%20Analyst%20Profile%20LinkedIn%20Banner%20(1).png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
