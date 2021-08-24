@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://github.com/soumyaagr427/soumyaagr427/blob/main/Orange%20Cream%20Neutral%20Senior%20Seo%20Analyst%20Profile%20LinkedIn%20Banner%20(1).png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers!/ > \ </h1>
+<h1> Hello Fellow < Developers! / >  </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=soumyaagr427.soumyaagr427)
