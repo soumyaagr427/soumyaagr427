@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate on Projects,Tech Articles, 
   Open source programs
 
-- 💬 Talk to me about C, C++ , Freelancing Opportunites, 
+- 💬 Talk to me about C, C++ , Freelancing Opportunites, <br> 
   Open Source , Andoid Studio and DSA
 
 <h2> Skills</h2>
